@@ -1,2 +1,0 @@
-[servers]
-176.108.242.194 ansible_user=devops2 ansible_ssh_priveta_key_file=/home/devops/.ssh/id_rsa
